@@ -72,6 +72,8 @@ print(get_balance(wallet1.address, client))
 print(get_balance(wallet2.address, client))
 ```
 
+You can check the transactions searching with the account number at: https://testnet.xrpl.org/
+
 ## Further References
 - [XRPL-Commons](https://github.com/XRPL-Commons/IE-Tech-Venture-Bootcamp-2024)
 - [XRP.org](https://xrpl.org/)
